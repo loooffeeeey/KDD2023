@@ -1,3 +1,3 @@
 # illustration
 
-![image](https://github.com/loooffeeeey/KDD2023/blob/main/assets/illustration_new.png)
+![image](https://anonymous.4open.science/r/KDD2023-20FB/assets/illustration_new.png)
