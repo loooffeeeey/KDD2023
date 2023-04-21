@@ -1,5 +1,5 @@
 
-# City-wide Origin-Destination Matrix Generation via Graph Denoising Diffusion
+# City-wide Origin-Destination Matrix Generation via Graph Denoising Diffusion.
 
 This repo contains the codes and data for our submitted KDD'23 research track paper under review.
 
